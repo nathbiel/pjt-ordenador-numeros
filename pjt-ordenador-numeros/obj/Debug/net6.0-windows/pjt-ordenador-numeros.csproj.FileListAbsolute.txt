@@ -1,0 +1,17 @@
+C:\Users\Nath Biel\OneDrive - SESISENAISP - Corporativo\Documentos\Materiais Docentes\Desenvolvimento de Software II\pjt-ordenador-numeros\bin\Debug\net6.0-windows\pjt-ordenador-numeros.exe
+C:\Users\Nath Biel\OneDrive - SESISENAISP - Corporativo\Documentos\Materiais Docentes\Desenvolvimento de Software II\pjt-ordenador-numeros\bin\Debug\net6.0-windows\pjt-ordenador-numeros.deps.json
+C:\Users\Nath Biel\OneDrive - SESISENAISP - Corporativo\Documentos\Materiais Docentes\Desenvolvimento de Software II\pjt-ordenador-numeros\bin\Debug\net6.0-windows\pjt-ordenador-numeros.runtimeconfig.json
+C:\Users\Nath Biel\OneDrive - SESISENAISP - Corporativo\Documentos\Materiais Docentes\Desenvolvimento de Software II\pjt-ordenador-numeros\bin\Debug\net6.0-windows\pjt-ordenador-numeros.dll
+C:\Users\Nath Biel\OneDrive - SESISENAISP - Corporativo\Documentos\Materiais Docentes\Desenvolvimento de Software II\pjt-ordenador-numeros\bin\Debug\net6.0-windows\pjt-ordenador-numeros.pdb
+C:\Users\Nath Biel\OneDrive - SESISENAISP - Corporativo\Documentos\Materiais Docentes\Desenvolvimento de Software II\pjt-ordenador-numeros\obj\Debug\net6.0-windows\pjt-ordenador-numeros.csproj.AssemblyReference.cache
+C:\Users\Nath Biel\OneDrive - SESISENAISP - Corporativo\Documentos\Materiais Docentes\Desenvolvimento de Software II\pjt-ordenador-numeros\obj\Debug\net6.0-windows\pjt_ordenador_numeros.frm_ordenaNumero.resources
+C:\Users\Nath Biel\OneDrive - SESISENAISP - Corporativo\Documentos\Materiais Docentes\Desenvolvimento de Software II\pjt-ordenador-numeros\obj\Debug\net6.0-windows\pjt-ordenador-numeros.csproj.GenerateResource.cache
+C:\Users\Nath Biel\OneDrive - SESISENAISP - Corporativo\Documentos\Materiais Docentes\Desenvolvimento de Software II\pjt-ordenador-numeros\obj\Debug\net6.0-windows\pjt-ordenador-numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nath Biel\OneDrive - SESISENAISP - Corporativo\Documentos\Materiais Docentes\Desenvolvimento de Software II\pjt-ordenador-numeros\obj\Debug\net6.0-windows\pjt-ordenador-numeros.AssemblyInfoInputs.cache
+C:\Users\Nath Biel\OneDrive - SESISENAISP - Corporativo\Documentos\Materiais Docentes\Desenvolvimento de Software II\pjt-ordenador-numeros\obj\Debug\net6.0-windows\pjt-ordenador-numeros.AssemblyInfo.cs
+C:\Users\Nath Biel\OneDrive - SESISENAISP - Corporativo\Documentos\Materiais Docentes\Desenvolvimento de Software II\pjt-ordenador-numeros\obj\Debug\net6.0-windows\pjt-ordenador-numeros.csproj.CoreCompileInputs.cache
+C:\Users\Nath Biel\OneDrive - SESISENAISP - Corporativo\Documentos\Materiais Docentes\Desenvolvimento de Software II\pjt-ordenador-numeros\obj\Debug\net6.0-windows\pjt-ordenador-numeros.dll
+C:\Users\Nath Biel\OneDrive - SESISENAISP - Corporativo\Documentos\Materiais Docentes\Desenvolvimento de Software II\pjt-ordenador-numeros\obj\Debug\net6.0-windows\refint\pjt-ordenador-numeros.dll
+C:\Users\Nath Biel\OneDrive - SESISENAISP - Corporativo\Documentos\Materiais Docentes\Desenvolvimento de Software II\pjt-ordenador-numeros\obj\Debug\net6.0-windows\pjt-ordenador-numeros.pdb
+C:\Users\Nath Biel\OneDrive - SESISENAISP - Corporativo\Documentos\Materiais Docentes\Desenvolvimento de Software II\pjt-ordenador-numeros\obj\Debug\net6.0-windows\pjt-ordenador-numeros.genruntimeconfig.cache
+C:\Users\Nath Biel\OneDrive - SESISENAISP - Corporativo\Documentos\Materiais Docentes\Desenvolvimento de Software II\pjt-ordenador-numeros\obj\Debug\net6.0-windows\ref\pjt-ordenador-numeros.dll
